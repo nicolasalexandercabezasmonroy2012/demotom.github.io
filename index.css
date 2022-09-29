@@ -1,0 +1,148 @@
+body {
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .csstom {
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+    transition: transform 1s;
+  }
+  .csstom:hover {
+    transform: translateY(-100px);
+  }
+  .cssball {
+    position: absolute;
+    top: 800px;
+    left: 1560px;
+    transition: transform 1s;
+  }
+  .cssball:hover {
+    transform: rotate(400deg);
+  }
+  .csssoccer {
+    position: absolute;
+    top: 800px;
+    left: 1000px;
+    width: 200px;
+    transition: transform 1s;
+  }
+  .csssoccer:hover {
+    transform: rotate(400deg);
+  }
+  .csstombaby {
+    position: absolute;
+    top: 600px;
+    left: 1560px;
+    transition: transform 1s;
+  }
+  .csstombaby:hover {
+    transform: rotateY(80deg);
+  }
+  .csshank {
+    position: absolute;
+    top: 600px;
+    left: 1200px;
+    transition: transform 1s;
+  }
+  .csshank:hover {
+    transform: matrix(0.866, 0.7, -0.8, 0.866, 0, 0);
+  }
+  .cssben {
+    position: absolute;
+    top: 600px;
+    left: 700px;
+    width: 230px;
+    transition: transform 1s;
+  }
+  .cssben:hover {
+    transform: skew(20deg, 20deg);
+  }
+  .cssapple1 {
+    position: absolute;
+    left: 990px;
+    top: 100px;
+    width: 50px;
+    transition: transform 3s;
+  }
+  .cssapple1:hover {
+    transform: translateY(1000px);
+  }
+  .cssapple2 {
+    position: absolute;
+    left: 900px;
+    top: 50px;
+    width: 50px;
+    transition: transform 3s;
+  }
+  .cssapple2:hover {
+    transform: translateY(1000px);
+  }
+  .cssapple3 {
+    position: absolute;
+    left: 1100px;
+    top: 30px;
+    width: 50px;
+    transition: transform 3s;
+  }
+  .cssapple3:hover {
+    transform: translateY(1000px);
+  }
+  .cssapple4 {
+    position: absolute;
+    left: 1300px;
+    top: 70px;
+    width: 50px;
+    transition: transform 3s;
+  }
+  .cssapple4:hover {
+    transform: translateY(1000px);
+  }
+  .cssapple5 {
+    position: absolute;
+    left: 1400px;
+    width: 50px;
+    transition: transform 3s;
+  }
+  .cssapple5:hover {
+    transform: translateY(1000px);
+  }
+  .cssbird {
+    position: absolute;
+    left: 10px;
+    transition: transform 1s;
+  }
+  .cssbird:hover {
+    transform: translate(1000px, 20px);
+  }
+  .csschinchilla {
+    position: absolute;
+    left: 1500px;
+    top: 360px;
+    width: 100px;
+    transition: transform 1s;
+  }
+  .csschinchilla:hover {
+    transform: skewY(40deg);
+  }
+  .csssquirrel {
+    position: absolute;
+    left: 1500px;
+    top: 214px;
+    width: 80px;
+    transition: transform 1s;
+  }
+  .csssquirrel:hover {
+    transform: matrix(0.586, 0.8, -0.8, 0.586, 40, 30);
+  }
+  .btn {
+    background: linear-gradient(rgb(44, 4, 114), rgb(173, 6, 1));
+    border-width: 0px;
+    border-radius: 10px;
+    height: 40px;
+    color: white;
+  }
+  .btn:hover{
+    background-image: linear-gradient(45deg,rgb(246, 210, 7),rgb(174, 10, 10),rgb(11, 6, 151));
+  }
